@@ -1,4 +1,4 @@
-# Rail-fence-cipher
+# EX-2-A Rail Fence Cipher
 
 ## AIM:
 To implement a program for encryption and decryption using rail fence transposition
